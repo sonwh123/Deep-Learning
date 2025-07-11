@@ -36,3 +36,4 @@ loss.backward()
 optimizer.step()
 
 print("Loss:", loss.item())
+print("hello")
